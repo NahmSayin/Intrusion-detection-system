@@ -1,5 +1,2 @@
 # Applied Machine Learning
-
-# Group project
-
-# Intrusion Detection System
+Group project to create an Intrusion Detection System
